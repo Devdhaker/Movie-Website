@@ -4,8 +4,8 @@
     "movies": [
       {
         "id": "moviebolly1",
-        "title": "Y-Film",
-        "imageUrl": "https://via.placeholder.com/150"
+        "title": "x-Film",
+        "imageUrl": " https://via.placeholder.com/150"
       },
       {
         "id": "moviebolly2",
